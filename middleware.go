@@ -1,4 +1,5 @@
 // The following code shows the example code for the middleware:
+// Source: https://robert-scherbarth.medium.com/measure-request-duration-with-prometheus-and-golang-adc6f4ca05fe
 
 package api
 
